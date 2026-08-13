@@ -1,5 +1,7 @@
 # QWeather (和风天气) API Skill
 
+**[简体中文](README.md) | [繁體中文](README.zh-TW.md) | [English](README.en.md)**
+
 一个封装[和风天气开发者 API](https://dev.qweather.com/)全部主要分类的命令行工具 / Agent Skill，基于「端点注册表」统一派发 **22 个子命令**，覆盖：
 
 - **GeoAPI**：城市搜索（LocationID）、热门城市、POI 搜索 / 范围搜索
