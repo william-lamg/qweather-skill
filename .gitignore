@@ -1,0 +1,15 @@
+# 密钥与凭据（切勿提交！）
+*.pem
+*.key
+*.p12
+.env
+.qweather-keys/
+qweather-keys/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# 系统
+.DS_Store
+Thumbs.db
